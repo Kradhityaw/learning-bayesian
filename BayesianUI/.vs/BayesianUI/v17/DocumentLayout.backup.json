@@ -6,7 +6,7 @@
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|BayesianUI||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91A6085A-9D55-4376-BAD7-F67F65ABF22B}|BayesianUI.csproj|c:\\users\\smkn 1 bondowoso\\documents\\kevind radhitya\\learning-bayesian\\bayesianui\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{91A6085A-9D55-4376-BAD7-F67F65ABF22B}|BayesianUI.csproj|C:\\Users\\SMKN 1 BONDOWOSO\\Documents\\KEVIND RADHITYA\\learning-bayesian\\BayesianUI\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{91A6085A-9D55-4376-BAD7-F67F65ABF22B}|BayesianUI.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -83,12 +83,11 @@
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\Users\\SMKN 1 BONDOWOSO\\Documents\\KEVIND RADHITYA\\learning-bayesian\\BayesianUI\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "C:\\Users\\SMKN 1 BONDOWOSO\\Documents\\KEVIND RADHITYA\\learning-bayesian\\BayesianUI\\Form2.cs*",
-              "RelativeToolTip": "Form2.cs*",
+              "ToolTip": "C:\\Users\\SMKN 1 BONDOWOSO\\Documents\\KEVIND RADHITYA\\learning-bayesian\\BayesianUI\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
               "ViewState": "AgIAAEcAAAAAAAAAAAAuwEsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T06:15:07.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T06:15:07.606Z"
             },
             {
               "$type": "Document",
@@ -96,11 +95,10 @@
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "C:\\Users\\SMKN 1 BONDOWOSO\\Documents\\KEVIND RADHITYA\\learning-bayesian\\BayesianUI\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "C:\\Users\\SMKN 1 BONDOWOSO\\Documents\\KEVIND RADHITYA\\learning-bayesian\\BayesianUI\\Form2.cs [Design]*",
-              "RelativeToolTip": "Form2.cs [Design]*",
+              "ToolTip": "C:\\Users\\SMKN 1 BONDOWOSO\\Documents\\KEVIND RADHITYA\\learning-bayesian\\BayesianUI\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T06:13:54.882Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-21T06:13:54.882Z"
             },
             {
               "$type": "Document",
@@ -112,8 +110,7 @@
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AgIAAKkAAAAAAAAAAAAcwL0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T00:47:26.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T00:47:26.367Z"
             },
             {
               "$type": "Document",
@@ -124,8 +121,7 @@
               "ToolTip": "C:\\Users\\SMKN 1 BONDOWOSO\\Documents\\KEVIND RADHITYA\\learning-bayesian\\BayesianUI\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T00:38:11.049Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-21T00:38:11.049Z"
             }
           ]
         }
