@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BayesianDBModelStoreContainer" CdmEntityContainer="BayesianDBEntities">
+    <EntitySetMapping Name="Criteria">
+      <EntityTypeMapping TypeName="BayesianDBModel.Criteria">
+        <MappingFragment StoreEntitySet="Criteria">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="learningStyle" ColumnName="learningStyle" />
+          <ScalarProperty Name="initialUnderstanding" ColumnName="initialUnderstanding" />
+          <ScalarProperty Name="learningMedia" ColumnName="learningMedia" />
+          <ScalarProperty Name="numberOfStudents" ColumnName="numberOfStudents" />
+          <ScalarProperty Name="learningMethod" ColumnName="learningMethod" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

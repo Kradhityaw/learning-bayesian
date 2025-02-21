@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\BayesianUI\bin\Debug\BayesianUI.exe.config
+C:\Users\USER\source\repos\BayesianUI\bin\Debug\BayesianUI.exe
+C:\Users\USER\source\repos\BayesianUI\bin\Debug\BayesianUI.pdb
+C:\Users\USER\source\repos\BayesianUI\obj\Debug\BayesianUI.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\BayesianUI\obj\Debug\BayesianUI.Form1.resources
+C:\Users\USER\source\repos\BayesianUI\obj\Debug\BayesianUI.Properties.Resources.resources
+C:\Users\USER\source\repos\BayesianUI\obj\Debug\BayesianUI.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\BayesianUI\obj\Debug\BayesianUI.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\BayesianUI\obj\Debug\BayesianUI.exe
+C:\Users\USER\source\repos\BayesianUI\obj\Debug\BayesianUI.pdb
+C:\Users\USER\source\repos\BayesianUI\bin\Debug\EntityFramework.dll
+C:\Users\USER\source\repos\BayesianUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\source\repos\BayesianUI\bin\Debug\EntityFramework.xml
+C:\Users\USER\source\repos\BayesianUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\source\repos\BayesianUI\obj\Debug\BayesianUI.Form2.resources
+C:\Users\USER\source\repos\BayesianUI\obj\Debug\BayesianUI.csproj.Up2Date
