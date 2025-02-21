@@ -14,3 +14,24 @@ C:\Users\USER\source\repos\BayesianUI\bin\Debug\EntityFramework.xml
 C:\Users\USER\source\repos\BayesianUI\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\USER\source\repos\BayesianUI\obj\Debug\BayesianUI.Form2.resources
 C:\Users\USER\source\repos\BayesianUI\obj\Debug\BayesianUI.csproj.Up2Date
+C:\Users\SMKN 1 BONDOWOSO\Documents\KEVIND RADHITYA\learning-bayesian\BayesianUI\bin\Debug\SANMEJAR.exe.config
+C:\Users\SMKN 1 BONDOWOSO\Documents\KEVIND RADHITYA\learning-bayesian\BayesianUI\bin\Debug\SANMEJAR.exe.manifest
+C:\Users\SMKN 1 BONDOWOSO\Documents\KEVIND RADHITYA\learning-bayesian\BayesianUI\bin\Debug\SANMEJAR.application
+C:\Users\SMKN 1 BONDOWOSO\Documents\KEVIND RADHITYA\learning-bayesian\BayesianUI\bin\Debug\SANMEJAR.exe
+C:\Users\SMKN 1 BONDOWOSO\Documents\KEVIND RADHITYA\learning-bayesian\BayesianUI\bin\Debug\SANMEJAR.pdb
+C:\Users\SMKN 1 BONDOWOSO\Documents\KEVIND RADHITYA\learning-bayesian\BayesianUI\bin\Debug\EntityFramework.dll
+C:\Users\SMKN 1 BONDOWOSO\Documents\KEVIND RADHITYA\learning-bayesian\BayesianUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SMKN 1 BONDOWOSO\Documents\KEVIND RADHITYA\learning-bayesian\BayesianUI\bin\Debug\EntityFramework.xml
+C:\Users\SMKN 1 BONDOWOSO\Documents\KEVIND RADHITYA\learning-bayesian\BayesianUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SMKN 1 BONDOWOSO\Documents\KEVIND RADHITYA\learning-bayesian\BayesianUI\obj\Debug\BayesianUI.csproj.AssemblyReference.cache
+C:\Users\SMKN 1 BONDOWOSO\Documents\KEVIND RADHITYA\learning-bayesian\BayesianUI\obj\Debug\BayesianUI.Form1.resources
+C:\Users\SMKN 1 BONDOWOSO\Documents\KEVIND RADHITYA\learning-bayesian\BayesianUI\obj\Debug\BayesianUI.Form2.resources
+C:\Users\SMKN 1 BONDOWOSO\Documents\KEVIND RADHITYA\learning-bayesian\BayesianUI\obj\Debug\BayesianUI.Properties.Resources.resources
+C:\Users\SMKN 1 BONDOWOSO\Documents\KEVIND RADHITYA\learning-bayesian\BayesianUI\obj\Debug\BayesianUI.csproj.GenerateResource.cache
+C:\Users\SMKN 1 BONDOWOSO\Documents\KEVIND RADHITYA\learning-bayesian\BayesianUI\obj\Debug\BayesianUI.csproj.CoreCompileInputs.cache
+C:\Users\SMKN 1 BONDOWOSO\Documents\KEVIND RADHITYA\learning-bayesian\BayesianUI\obj\Debug\SANMEJAR.TrustInfo.xml
+C:\Users\SMKN 1 BONDOWOSO\Documents\KEVIND RADHITYA\learning-bayesian\BayesianUI\obj\Debug\SANMEJAR.exe.manifest
+C:\Users\SMKN 1 BONDOWOSO\Documents\KEVIND RADHITYA\learning-bayesian\BayesianUI\obj\Debug\SANMEJAR.application
+C:\Users\SMKN 1 BONDOWOSO\Documents\KEVIND RADHITYA\learning-bayesian\BayesianUI\obj\Debug\BayesianUI.csproj.Up2Date
+C:\Users\SMKN 1 BONDOWOSO\Documents\KEVIND RADHITYA\learning-bayesian\BayesianUI\obj\Debug\SANMEJAR.exe
+C:\Users\SMKN 1 BONDOWOSO\Documents\KEVIND RADHITYA\learning-bayesian\BayesianUI\obj\Debug\SANMEJAR.pdb

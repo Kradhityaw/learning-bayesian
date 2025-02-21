@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="SANMEJAR.exe" version="1.0.0.0" publicKeyToken="e3905359c9269832" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="logoo.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="SANMEJAR" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="SANMEJAR.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+             If you want to change the Windows User Account Control level replace the 
+             requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel element will disable file and registry virtualization. 
+            Remove this element if your application requires this virtualization for backwards
+            compatibility.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EntityFramework.dll" size="5225168">
+      <assemblyIdentity name="EntityFramework" version="6.0.0.0" publicKeyToken="B77A5C561934E089" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>nCD7KthqdgsMauvZMByQCYkdAq4UcgqTkmwLU1uK0Js=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EntityFramework.SqlServer.dll" size="622288">
+      <assemblyIdentity name="EntityFramework.SqlServer" version="6.0.0.0" publicKeyToken="B77A5C561934E089" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>4OEmw7inupUB0D+Z1Upcu9F0vOy2FwCYq0zBIZ8n+TM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SANMEJAR.exe" size="42016">
+      <assemblyIdentity name="SANMEJAR" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>MeOfVa+zLY+J1weJWuaZvCFdc+zRDVKArPqrYoSgQdY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="logoo.ico" size="4286">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>5RSdv3bhVGRD5hNP7wNaX/+ybUz0OO56K0xIQY1YAF4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Model1.Context.tt" size="22930">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>iH6jRm/ArXOO/wVogKb8ZOaRJ6DvCC6vOswudwQkDnQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Model1.tt" size="25275">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>CabSpKm6yYNT6twBZzKHKM3v3aBYMgNzK0uSDYpHoWw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="SANMEJAR.exe.config" size="1329">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>gPD4v0H9uoftdoO5iakuWT8gRAYKp+/jB+79NUlJQLc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of the Windows versions that this application has been tested on
+           and is designed to work with. Uncomment the appropriate elements
+           and Windows will automatically select the most compatible environment. -->
+      <!-- Windows Vista -->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}" />-->
+      <!-- Windows 7 -->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}" />-->
+      <!-- Windows 8 -->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}" />-->
+      <!-- Windows 8.1 -->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}" />-->
+      <!-- Windows 10 -->
+      <!--<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}" />-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=LAPTOP-S8UCE514\SMKN 1 BONDOWOSO" issuerKeyHash="cf5c2b400f2f63d2645b049b5615a9d1d3cbec4e" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>ksO/Rm3w+OGeHt00cfkE38CqVLTc8P2M/wdH5XevcfA=</DigestValue></Reference></SignedInfo><SignatureValue>chfx48O1GWrzZpBDCUG3WUY4xO7MDV9N3FrzxRfEv7iBxkiPe/GgBWCBFoI4HoAFHpdbd94l6gv4ibh+/JsD1yEPoYaGTQzrzAviqMRksgE087Pc12hCLqV5+qgnmzudVJb3JM3wcrwcg/yyz4GgidQ/ECkFAtJGZkEIIVAgZp8=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>3u+JHK8Qs8ZWpiFsMOfuias18OuQe7+VsyXxiZNFvsxqExgKXbQ8+0O67Hc3r3bJdaThzeiZSZmiiPYDda0eDGeBHR3+nYIHyS8cSvJM404AF9h3LDvJZS6omd7lEsBDnQnI4SbF0ye4b5xLr2HsaJQHWXnQluGfVC826kZRCmE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="f071af77e54707ff8cfdf0dcb454aac0df04f97134dd1e9ee1f8f06d46bfc392" Description="" Url=""><as:assemblyIdentity name="SANMEJAR.exe" version="1.0.0.0" publicKeyToken="e3905359c9269832" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LAPTOP-S8UCE514\SMKN 1 BONDOWOSO</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>D6MS/lK0Xk6Mo4ZzGjkZfOo8pcD1+Nga8tlzwcDxIbo=</DigestValue></Reference></SignedInfo><SignatureValue>xFlPqCrI54JBK0GEakfKMixr3zAs9QA1q/41QHsJYNfU0J1QINsUtgp0AlAoI40yDXzD1HQyp/tLCI2f8RbPQgZ8ESelgfVl34ulFvpMfEwR9C3SvSUr9yBDv3ela1PEkBoo7P21F2gN3YJtI4GQJCHuoBTHRkg61GqezxqrxRE=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>3u+JHK8Qs8ZWpiFsMOfuias18OuQe7+VsyXxiZNFvsxqExgKXbQ8+0O67Hc3r3bJdaThzeiZSZmiiPYDda0eDGeBHR3+nYIHyS8cSvJM404AF9h3LDvJZS6omd7lEsBDnQnI4SbF0ye4b5xLr2HsaJQHWXnQluGfVC826kZRCmE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICGTCCAYKgAwIBAgIQZQarbYi+O51IMCqk5HdnXTANBgkqhkiG9w0BAQsFADBLMUkwRwYDVQQDHkAATABBAFAAVABPAFAALQBTADgAVQBDAEUANQAxADQAXABTAE0ASwBOACAAMQAgAEIATwBOAEQATwBXAE8AUwBPMB4XDTI1MDIyMTEyMDY1NVoXDTI2MDIyMTE4MDY1NVowSzFJMEcGA1UEAx5AAEwAQQBQAFQATwBQAC0AUwA4AFUAQwBFADUAMQA0AFwAUwBNAEsATgAgADEAIABCAE8ATgBEAE8AVwBPAFMATzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA3u+JHK8Qs8ZWpiFsMOfuias18OuQe7+VsyXxiZNFvsxqExgKXbQ8+0O67Hc3r3bJdaThzeiZSZmiiPYDda0eDGeBHR3+nYIHyS8cSvJM404AF9h3LDvJZS6omd7lEsBDnQnI4SbF0ye4b5xLr2HsaJQHWXnQluGfVC826kZRCmECAwEAATANBgkqhkiG9w0BAQsFAAOBgQCEykEwbl9HAG90g52JCjsjJmjO4o0uW9nA49mR9M8pzy26C784Ug7Q3yUib4QkvU6TY7bbxL/+YUsT46QCTmej/35/kOtW5yI94Y386jr301HPv2DiKYCZ3P3Lnj7C7F/jEa0WRbTphN3lpWWUdtrJWpRxE1+k+HwxUizswnt5Sw==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
